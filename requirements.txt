@@ -1,0 +1,7 @@
+accelerate
+diffusers
+huggingface-hub
+python-dotenv
+torch
+transformers
+transformers[sentencepiece]
